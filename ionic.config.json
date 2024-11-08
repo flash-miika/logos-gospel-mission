@@ -1,0 +1,8 @@
+{
+  "name": "LogosGospelMission",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "f470c80c"
+}
